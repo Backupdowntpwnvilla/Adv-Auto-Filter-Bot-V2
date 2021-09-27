@@ -5,20 +5,20 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i> 𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐧𝐝 𝐚𝐬𝐤 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐦𝐨𝐯𝐢𝐞 🍿
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+𝐀𝐧𝐲 𝐰𝐚𝐲 𝐮 𝐜𝐚𝐧'𝐭 𝐚𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 😅
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+For More Details  about new films Click Help Button Below..
+@D_W_T_1
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>How To Use Me?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Join our group and just type your movie and click start button
+-> For new movies join our channel @D_W_T_1
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -46,7 +46,7 @@ For More Details Click Help Button Below..
 @CrazyBotsz
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> manni kutten</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
 
